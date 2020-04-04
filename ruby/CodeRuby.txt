@@ -1,0 +1,7 @@
+puts "Please enter your name."
+name = gets
+puts "Hi, #{name}! I'm Ruby!"
+
+=begin
+This source code was found on the website https://www.digitalocean.com/community/tutorials/how-to-write-your-first-ruby-program.
+=end
